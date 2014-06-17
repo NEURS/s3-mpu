@@ -1,0 +1,35 @@
+{
+  "name": "s3-mpu",
+  "version": "0.0.1",
+  "description": "S3 Multipart Upload made easy using AWS-SDK for Node.js",
+  "main": "./lib/multipart.js",
+  "scripts": {
+    "test": "mocha -t 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/NEURS/s3-mpu.git"
+  },
+  "keywords": [
+    "s3",
+    "mpu",
+    "multipart",
+    "multipart",
+    "upload",
+    "upload",
+    "uploading",
+    "aws-sdk",
+    "aws",
+    "sdk"
+  ],
+  "author": "Kevin J. Martin (https://neurs.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NEURS/s3-mpu/issues"
+  },
+  "homepage": "https://github.com/NEURS/s3-mpu",
+  "dependencies": {
+    "aws-sdk": "~2.0.0-rc.20",
+    "async": "~0.9.0"
+  }
+}
