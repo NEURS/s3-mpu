@@ -1,6 +1,6 @@
 {
   "name": "s3-mpu",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "S3 Multipart Upload made easy using AWS-SDK for Node.js",
   "main": "./lib/multipart.js",
   "scripts": {
